@@ -1,7 +1,7 @@
-[![install](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/install.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/install.yml)
-[![lint](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/lint.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/lint.yml)
-[![format](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml)
-[![test](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/test.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/test.yml)
+[![install](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/install.yml/badge.svg)](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/install.yml)
+[![lint](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/lint.yml/badge.svg)](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/lint.yml)
+[![format](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/format.yml/badge.svg)](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/format.yml)
+[![test](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/test.yml/badge.svg)](https://github.com/yuchenz427/IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook/actions/workflows/test.yml)
 # IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook
 
 IDS706 week 9 mini project: Set up a cloud-hosted Jupyter Notebook
