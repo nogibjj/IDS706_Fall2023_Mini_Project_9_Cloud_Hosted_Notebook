@@ -2,9 +2,9 @@
 [![lint](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/lint.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/lint.yml)
 [![format](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/format.yml)
 [![test](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/test.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/test.yml)
-# IDS706-Python-Template
+# IDS706_Fall2023_Mini_Project_9_Cloud_Hosted_Notebook
 
-Python template repo for Fall 2023 IDS_706-Data Engineering Systems at Duke Univ. 
+IDS706 week 9 mini project: Set up a cloud-hosted Jupyter Notebook
 
 It contains:
 
